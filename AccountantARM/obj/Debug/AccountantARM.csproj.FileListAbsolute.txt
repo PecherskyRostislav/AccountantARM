@@ -1,0 +1,12 @@
+D:\Projects\AccountantARM\AccountantARM\bin\Debug\AccountantARM.exe.config
+D:\Projects\AccountantARM\AccountantARM\bin\Debug\AccountantARM.exe
+D:\Projects\AccountantARM\AccountantARM\bin\Debug\AccountantARM.pdb
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.csprojResolveAssemblyReference.cache
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.Form1.resources
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.Properties.Resources.resources
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.csproj.GenerateResource.cache
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.csproj.CoreCompileInputs.cache
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.exe
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.pdb
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.Form2.resources
+D:\Projects\AccountantARM\AccountantARM\obj\Debug\AccountantARM.Form3.resources
